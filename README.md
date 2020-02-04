@@ -18,7 +18,7 @@ first makes it faster and easier to train high-res images in the long run.
 -The generator inputs a random vector/noise and at first outputs noise as well. With more training, it gets feedback from the descriminator, comparing the generated samples with the real ones, and works to improve the result.
 -The generator separates the image into three "styles" 
 
-![diagram] (https://developers.google.com/machine-learning/gan/images/gan_diagram.svg)
+![diagram](https://developers.google.com/machine-learning/gan/images/gan_diagram.svg)
 
 
 
