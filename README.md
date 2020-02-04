@@ -18,6 +18,11 @@ first makes it faster and easier to train high-res images in the long run.
 -The generator inputs a random vector/noise and at first outputs noise as well. With more training, it gets feedback from the descriminator, comparing the generated samples with the real ones, and works to improve the result.
 -The generator separates the image into three "styles" 
 
+The styles are divided into 3 types:
+-Coarse (resolution of up to 82 - affects pose, general hair style, face shape, etc)
+-Middle (res of 162 to 322 - affects finer facial features, hair style, eyes open/closed, etc)
+-Fine (res of 642 x 10242 - affects color scheme (eye, hair and skin) and micro features)
+
 ![diagram](https://developers.google.com/machine-learning/gan/images/gan_diagram.svg)
 
 
