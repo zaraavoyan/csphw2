@@ -26,4 +26,15 @@ The styles are divided into 3 types:
 ![diagram](https://developers.google.com/machine-learning/gan/images/gan_diagram.svg)
 
 
+## Bjork's AI Generated Soundtrack 
 
+https://www.youtube.com/watch?time_continue=10&v=HXSSA064EEs&feature=emb_title
+
+Description: Collaborating with New York’s design-centric Sister City hotel and Microsoft, the result is Kórsafn—an AI-powered composition that builds on the generative soundscape concept that Sister City launched with Julianna Barwick in 2019. In Icelandic, “kór” = “choral,” and “safn” = “archives.”
+
+Input:
+- All kinds of weather data (temperature, barometric pressure, sunrises, sunsets)
+-Choral Arrangements
+
+Process:
+-The AI, depending on the kind of data it receives,
