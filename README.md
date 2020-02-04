@@ -37,4 +37,4 @@ Input:
 -Choral Arrangements
 
 Process:
--The AI, depending on the kind of data it receives,
+-The AI, depending on the kind of data it receives, makes sounds that have been pre-recorded by a choir and Bjork herself. As it learns more and more, eventually 
