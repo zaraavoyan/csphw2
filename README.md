@@ -30,13 +30,13 @@ The styles are divided into 3 types:
 
 https://www.youtube.com/watch?time_continue=10&v=HXSSA064EEs&feature=emb_title
 
-Description: Collaborating with New York’s design-centric Sister City hotel and Microsoft, the result is Kórsafn—an AI-powered composition that builds on the generative soundscape concept that Sister City launched with Julianna Barwick in 2019. In Icelandic, “kór” = “choral,” and “safn” = “archives.”
+# Description: Collaborating with New York’s design-centric Sister City hotel and Microsoft, the result is Kórsafn—an AI-powered composition that builds on the generative soundscape concept that Sister City launched with Julianna Barwick in 2019. In Icelandic, “kór” = “choral,” and “safn” = “archives.”
 
-Input:
+# Input:
 - All kinds of weather data (temperature, barometric pressure, sunrises, sunsets)
 -Choral Arrangements
 -Camera footage from a rooftop
 
-Process:
+# Process:
 -The AI, depending on the kind of data it receives, makes sounds that have been pre-recorded by a choir and Bjork herself. As it learns more and more, eventually it starts separating between different events that happen in the video footage; such as birds migrating, etc and plays adjusted sounds depending on everything that it thinks happens 
 -It doesn’t just find clouds, but denotes the density and type of cloud, whether cumulus or nimbus. And it won’t just find a bird, but will also distinguish an entire flock of birds (from Microsoft)
